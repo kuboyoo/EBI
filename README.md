@@ -1,7 +1,7 @@
 # EBI: Estimate Boundingbox of shrImp
 Shrimp detector &amp; dataset
 
-![DEMO]( "DEMO")
+![DEMO](https://github.com/kuboyoo/EBI/blob/master/data/anim.gif "DEMO")
 
 # Setup
 - `git clone https://github.com/kuboyoo/EBI.git`
