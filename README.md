@@ -1,2 +1,2 @@
-# EBI: Estimate Boundingbox shrImp
+# EBI: Estimate Boundingbox of shrImp
 Shrimp detector &amp; dataset
