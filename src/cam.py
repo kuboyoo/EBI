@@ -48,9 +48,9 @@ if __name__ == "__main__":
 
     prev_time = time.time()
 
-    # cap=cv2.VideoCapture(1)
-    URL='http://vrl-shrimp.cv:5000/video_feed'
-    cap = cv2.VideoCapture(URL)
+    cap=cv2.VideoCapture(0)
+    # URL='http://vrl-shrimp.cv:5000/video_feed'
+    # cap = cv2.VideoCapture(URL)
     
     while cap.isOpened():
         ret, frame = cap.read()
